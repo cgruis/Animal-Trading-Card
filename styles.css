@@ -1,0 +1,64 @@
+/* add your CSS here */
+body {
+  font-family: Palatino;
+  }
+h3 {
+  border-width: thin;
+  border-style: solid;
+  border-color: darkgray;
+  border-radius: 15px;
+  background-color: black;
+  padding: 10px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  text-align: center;
+  color: white;
+  }
+#trading_card {
+    border-width: thin;
+    border-style: solid;
+    border-color: black;
+    border-radius: 15px;
+    width: 300px;
+    box-shadow: 10px 10px 10px 0px rgba(200,200,200,1);
+    padding: 10px;
+    background-image: url(https://wallpaperstudio10.com/wallpaper-download-168028-1920x1080.jpg);
+}
+.image {
+  border-width: thin;
+  border-style: solid;
+  border-color: darkgray;
+  border-radius: 15px;
+  width: 300px;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  }
+.card_info {
+  border-width: thin;
+  border-style: solid;
+  border-color: darkgray;
+  border-radius: 20px;
+  padding: 10px;
+  background-color: black;
+  margin-top: 0px;
+  color: white;
+  }
+.fact  {
+  font-style: italic;
+  color: white;
+}
+.list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: white;
+  }
+.label {
+  font-weight: bold;
+  color: white;
+}
+.link {
+  font-size: small;
+}
